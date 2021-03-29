@@ -1,11 +1,11 @@
 
 body {
-  font-family: "Montserrat";
+  font-family: "Trirong";
   text-align: center;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Montserrat-Bold";
+  font-family: "Trirong",sans-serif;
 }
 
 p {
@@ -15,7 +15,7 @@ p {
 /* Headings */
 
 .big-heading {
-  font-family: "Montserrat-Black";
+  font-family: "Trirong-Black",sans-serif;
   font-size: 3.5rem;
   line-height: 1.5;
 }
@@ -60,7 +60,7 @@ p {
 
 .nav-link {
   font-size: 1.2rem;
-  font-family: "Montserrat-Light";
+  font-family: "Trirong-Light";
 }
 
 /* Buttons */
